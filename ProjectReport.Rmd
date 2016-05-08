@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning Project"
-author: "Christer Hadland"
+author: "Chris"
 date: "May 08, 2016"
 output: html_document
 ---
